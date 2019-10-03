@@ -7,7 +7,7 @@ container.appendChild(paragraph);
 
 const greetings = 
 [
-      'Hi, My name is PanChatBot, I can tell you all about HNG6.0'
+      'Hi, My name is Pan, I can tell you all about HNG6.0'
 ]
 
 const intern = 
@@ -17,12 +17,12 @@ const intern =
 
 const intern1 =
 [
-        'Yes, this programme is for you. There is a pre-internship to prepare the newbies. if you are dedicated you will be able to do well. To know more visit: hng.tech/about'
+        'Yes, this programme is for you. There is a pre-internship to prepare the newbies. if you are dedicated you will be able to do well. To know more visit: hng.tech/, about'
 ]
 
 const intern2 = 
 [
-    'its an easy process. Join hng.tech/become-intern'
+    'its an easy process. Join hng.tech/, become-intern'
 ]
 
 const intern3 =
