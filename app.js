@@ -7,7 +7,7 @@ container.appendChild(paragraph);
 
 const greetings = 
 [
-      'Hi, My name is Pan, I can tell you all about HNG6.0'
+      'Hi, I am Pan, I can tell you all about HNG6.0'
 ]
 
 const intern = 
