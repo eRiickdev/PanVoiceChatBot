@@ -15,6 +15,11 @@
             margin-top: 10vh;
         }
 
+        .par
+        {
+       margin-left: 5%;
+        }
+
 .text-box {  max-height: 70vh;  overflow: scroll;}
 
 .text-box:focus {  outline: none;}
